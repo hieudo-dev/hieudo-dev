@@ -8,7 +8,7 @@ I am a Computer Science graduate that aspired to be a data scientist, but somewh
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [hieudn.uh@gmail.com](mailto:hieudn.uh@gmail.com)
-* 🚀  I'm currently working on [Shopbase](http://https://www.shopbase.com/)
+* 🚀  I'm currently working on [Shopbase](https://www.shopbase.com)
 * 🧠  I'm learning Golang & SQL
 
 <a href="https://www.twitter.com/hieudn98" target="_blank" rel="noreferrer"><img
