@@ -10,7 +10,6 @@ I am a Computer Science graduate currently working in Web Development...
 * 📫 You can contact me at [hieudn.uh@gmail.com](mailto:hieudn.uh@gmail.com)
 * 🚀 I'm currently working on [Shopbase](https://www.shopbase.com)
 * 🧠 I'm learning Golang & SQL
-* 💡 Technical blogger wannabe
 
 <a href="https://www.twitter.com/hieudn98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hieudn98?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
