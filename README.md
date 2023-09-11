@@ -8,7 +8,6 @@ I am a Computer Science graduate currently working in Web Development...
 
 * 🌍 I'm based in Hanoi, Vietnam
 * 📫 You can contact me at [hieudn.uh@gmail.com](mailto:hieudn.uh@gmail.com)
-* 🚀 I'm currently working on [Shopbase](https://www.shopbase.com)
 * 🧠 I'm learning Golang & SQL
 
 <a href="https://www.twitter.com/hieudn98" target="_blank" rel="noreferrer"><img
