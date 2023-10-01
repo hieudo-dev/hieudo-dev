@@ -1,10 +1,7 @@
 Hi 👋 My name is Hieu Do
 ========================
 
-Front-end Developer
--------------------
-
-I am a Computer Science graduate currently working in Web Development...
+I am a Computer Science graduate currently working in front-end Web Development...
 
 * 🌍 I'm based in Hanoi, Vietnam
 * 📫 You can contact me at [hieudn.uh@gmail.com](mailto:hieudn.uh@gmail.com)
