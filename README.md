@@ -1,11 +1,12 @@
 Hi 👋 My name is Hieu Do
 ========================
 
-I am a Computer Science graduate currently working in front-end Web Development...
+I am a Software engineer and...
 
-* 🌍 I'm based in Hanoi, Vietnam
-* 📫 You can contact me at [hieudn.uh@gmail.com](mailto:hieudn.uh@gmail.com)
-* 🧠 I'm learning Rust & Backend Development
+* 🌍 I was born in Vietnam and raised in Cuba
+* 🧠 I love learning how technologies work under the hood (Right now I'm learning Rust and Spring Boot)
+* 📫 I enjoy building side projects and contributing to OSS
+
 
 <a href="https://www.twitter.com/hieudn98" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hieudn98?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
